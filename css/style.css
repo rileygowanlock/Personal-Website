@@ -7,12 +7,19 @@
     background-size: cover;
 }
 
-    .background h1{
-        color: white;
-        font-family: Poppins Bold;
-        font-size: 107.3px;
-        text-shadow: rgba(255,255,255,.1) -1px -1px 1px,rgba(0,0,0,.5) 1px 1px 1px;
-    }
+.title {
+    padding: 20px;
+    max-width: 80%;
+    height: auto;
+}
+
+.navigation {
+    position: absolute;
+}
+
+.button {
+    position: absolute;
+}
 
 #titlePage {
     background-image: url("../images/backgrounds/bg_1.png");
@@ -30,5 +37,96 @@
     background-image: url("../images/backgrounds/bg_5.png");
 }
 
+#header1 {
+    padding-left: 20px;
+    padding-top: 5px;
+}
 
+#raindrop1 {
+    top: 22px;
+    right: 94px;
+}
+#raindrop2 {
+    top: 20px;
+    right: 24px;
+}
+#raindrop3 {
+    top: 102px;
+    right: 36px;
+}
+#raindrop4 {
+    top: 87px;
+    right: 102px;
+}
+
+#raindropSymbol1 {
+    top: 39px;
+    right: 118px;
+}
+#raindropSymbol2 {
+    top: 52px;
+    right: 41px;
+}
+#raindropSymbol3 {
+    top: 123px;
+    right: 53px;
+}
+#raindropSymbol4 {
+    top: 115px;
+    right: 125px;
+}
+
+#sun0 {
+    top: 0px;
+    left: 0px;
+}
+#sun0 {
+    top: 0px;
+    left: 0px;
+}
+#sun1 {
+    top: 6px;
+    left: 208px;
+}
+#sun2 {
+    top: 82px;
+    left: 166px;
+}
+#sun3 {
+    top: 140px;
+    left: 94px;
+}
+#sun4 {
+    top: 171px;
+    left: 7px;
+}
+#sunSymbol1 {
+    top: 40px;
+    left: 227px;
+}
+#sunSymbol2 {
+    top: 108px;
+    left: 195px;
+}
+#sunSymbol3 {
+    top: 169px;
+    left: 123px;
+}
+#sunSymbol4 {
+    top: 190px;
+    left: 30px;
+}
+
+#nav1 {
+    top: 0px;
+    right: 0px;
+    width: 250px;
+    height: 200px;
+}
+#nav2 {
+    top: -4px;
+    left: -4px;
+    width: 250px;
+    height: 200px;
+}
 
