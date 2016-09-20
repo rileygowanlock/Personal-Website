@@ -21,6 +21,10 @@
     position: absolute;
 }
 
+.pictures {
+    position: absolute;
+}
+
 #titlePage {
     background-image: url("../images/backgrounds/bg_1.png");
 }
@@ -43,37 +47,37 @@
 }
 
 #raindrop1 {
-    top: 22px;
-    right: 94px;
+    top: 17px;
+    right: 84px;
 }
 #raindrop2 {
-    top: 20px;
-    right: 24px;
+    top: 15px;
+    right: 14px;
 }
 #raindrop3 {
-    top: 102px;
-    right: 36px;
+    top: 97px;
+    right: 26px;
 }
 #raindrop4 {
-    top: 87px;
-    right: 102px;
+    top: 82px;
+    right: 92px;
 }
 
 #raindropSymbol1 {
-    top: 39px;
-    right: 118px;
+    top: 34px;
+    right: 108px;
 }
 #raindropSymbol2 {
-    top: 52px;
-    right: 41px;
+    top: 47px;
+    right: 31px;
 }
 #raindropSymbol3 {
-    top: 123px;
-    right: 53px;
+    top: 118px;
+    right: 43px;
 }
 #raindropSymbol4 {
-    top: 115px;
-    right: 125px;
+    top: 110px;
+    right: 115px;
 }
 
 #sun0 {
@@ -116,6 +120,131 @@
     top: 190px;
     left: 30px;
 }
+
+#bubble1 {
+    top: 20px;
+    right: 20px;
+}
+#bubble2 {
+    top: 28px;
+    right: 89px;
+}
+#bubble3 {
+    top: 87px;
+    right: 27px;
+}
+#bubble4 {
+    top: 110px;
+    right: 104px;
+}
+#bubbleSymbol1 {
+    top: 127px;
+    right: 132px;
+}
+#bubbleSymbol2 {
+    top: 48px;
+    right: 108px;
+}
+#bubbleSymbol3 {
+    top: 102px;
+    right: 46px;
+}
+#bubbleSymbol4 {
+    top: 36px;
+    right: 34px;
+}
+
+#notes0 {
+    top: 2px;
+    left: 4px;
+}
+#notes1 {
+    top: 100px;
+    left: 83px;
+}
+#notes2 {
+    top: 87px;
+    left: 127px;
+}
+#notes3 {
+    top: 75px;
+    left: 150px;
+}
+#notes4 {
+    top: 83px;
+    left: 183px;
+}
+#notesSymbol1 {
+    top: 191px;
+    left: 92px;
+}
+#notesSymbol2 {
+    top: 93px;
+    left: 133px;
+}
+#notesSymbol3 {
+    top: 135px;
+    left: 158px;
+}
+#notesSymbol4 {
+    top: 87px;
+    left: 191px;
+}
+
+#leaf1 {
+    top: -80px;
+    right: -10px;
+}
+#leaf2 {
+    top: 18px;
+    right: 21px;
+}
+#leaf3 {
+    top: 96px;
+    right: 27px;
+}
+#leaf4 {
+    top: 93px;
+    right: 70px;
+}
+#leafSymbol1 {
+    top: 36px;
+    right: 115px;
+}
+#leafSymbol2 {
+    top: 50px;
+    right: 37px;
+}
+#leafSymbol3 {
+    top: 128px;
+    right: 40px;
+}
+#leafSymbol4 {
+    top: 106px;
+    right: 125px;
+}
+
+#birds1 {
+    top: 80px;
+    left: 265px;
+}
+#sailboat {
+    top: 306px;
+    right: 190px;
+}
+#climbers {
+    top: 196px;
+    left: 430px;
+}
+#birds2 {
+    top: 15px;
+    left: 200px;
+}
+#plane {
+    top: 330px;
+    right: 220px;
+}
+
 
 #nav1 {
     top: 0px;
